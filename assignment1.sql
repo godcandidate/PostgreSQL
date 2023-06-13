@@ -20,6 +20,7 @@ VALUES ('Aston Martin','Valhalla', 542189),
     ('Toyota', 'Yaris', 452000.33),
     ('Mercedes', 'Maybach', 454545.45);
 
+
 --Question 1 number of items in database
 SELECT COUNT(*) FROM CarCollection;
 
